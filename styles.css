@@ -1,0 +1,19 @@
+.main {
+    display: inline-grid;
+    grid-template-rows:auto;
+    height: 600px;
+    width: 400px;
+    border: solid black 5px;
+    align-items: stretch;
+}
+
+.reset {
+    margin: 20px;
+    font-size: 25px;
+}
+
+.etch {
+    box-sizing: border-box;
+    background-color: "red";
+    margin: 10px;
+}
